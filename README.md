@@ -1,2 +1,2 @@
 # Basic_Skill
-Basic Skill 공부
+Basic Skill Study
